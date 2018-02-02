@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Acme-Explorer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Acme-Explorer-1.12.war">
+      <element id="artifact" artifact-name="Acme-Explorer:war exploded" />
+    </root>
+  </artifact>
+</component>
